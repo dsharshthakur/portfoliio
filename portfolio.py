@@ -5,7 +5,6 @@ st.markdown("<h5 style = 'text-align:center'>(Data Scientist)</h6>", unsafe_allo
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-
 with st.container():
     st.markdown('''
     
@@ -25,6 +24,8 @@ Best Regards,<br>
 st.write("Email- thakurharshsingh1612@gmail.com")
 
 st.markdown("<hr>", unsafe_allow_html=True)
+
+#project1
 
 with st.container() :
     st.markdown("<h4>Project 1 : AI-powered Email Assistant for Students and Professionals</h4>", unsafe_allow_html=True)
@@ -50,6 +51,7 @@ with st.container() :
 
 st.markdown("<br>", unsafe_allow_html=True)
 
+#project 2
 with st.container():
     st.markdown("<h4>Project 2 : Stock Price Prediction Model</h4>",
                 unsafe_allow_html=True)
@@ -70,7 +72,7 @@ with st.container():
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-
+#project3
 with st.container():
 
     st.markdown("<h4>Project 3 : Restaurant Recommendation System</h4>",
@@ -97,6 +99,7 @@ with st.container():
 st.markdown("<br>", unsafe_allow_html=True)
 
 
+#project4
 with st.container():
     st.markdown("<h4>Project 4 : Movie Recommendation System</h4>",
                 unsafe_allow_html=True)
@@ -114,7 +117,7 @@ with st.container():
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-
+#project 5
 with st.container():
     st.markdown("<h4>Project 5 : WhatsApp Chat Analysis</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: September 2023</h6>", unsafe_allow_html=True)
@@ -134,7 +137,7 @@ with st.container():
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-
+#project 6
 with st.container():
 
     st.markdown("<h4>Project 6 : Spam Email Classifier</h4>",unsafe_allow_html=True)
@@ -154,7 +157,7 @@ with st.container():
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-
+#project 7
 with st.container():
 
     st.markdown("<h4>Project 7 : Laptop Price Prediction</h4>",unsafe_allow_html=True)
