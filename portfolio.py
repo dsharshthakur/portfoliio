@@ -32,7 +32,7 @@ with st.container() :
     st.markdown('''
              Project Description
              
-            <p>The model is an AI-powered email assistant built using Google Gemini and Langchain to generate personalized and effective emails for students and professionals. Deployed on Streamlit. Ditch the writer's block, say goodbye to generic templates, and hello to confident, efficient communication, 
+            <p>The model is an AI-powered email assistant built using <b>Google Gemini</b> and <b>Langchain</b> to generate personalized and effective emails for students and professionals. Deployed on Streamlit. Ditch the writer's block, say goodbye to generic templates, and hello to confident, efficient communication, 
              you're a student acing that application or a professional making a lasting impression.</p>
             <h6>Technical Skills:</h6>
             <ol>
