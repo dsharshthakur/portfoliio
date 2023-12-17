@@ -57,12 +57,12 @@ with st.container():
     st.markdown('''
             Project Description
             
-            <p>I embarked on a project to predict stock prices using <b>LSTM</b> networks and deployed it through Streamlit, showcasing my practical skills as an aspiring Data Scientist. In this project, I collected a diverse dataset of historical stock prices, meticulously preparing it for analysis by addressing missing values and applying normalization techniques. Leveraging TensorFlow and Keras, I constructed an LSTM-based model, 
-            training it to discern patterns in stock movements for accurate predictions.
-            In this endeavor, I designed the application to enable users to search for and predict stock prices for more than <b>2000+ NSE registered companies</b>, as well as select foreign companies, offering a comprehensive scope for analysis and prediction.
-            The project extends beyond the development of the predictive model; it encompasses an intuitive Streamlit dashboard that vividly ilustrates both actual and predicted trends. The interface not only provides users with a clear visual representation but also allows them to actively engage by predicting future closing prices for a specified number of days.
+            <p>I embarked on a project to predict stock prices using <b>LSTM</b> networks and deployed it through Streamlit, showcasing my practical skills as an aspiring Data Scientist. In this project, I collected a diverse dataset of historical stock prices, meticulously preparing it for analysis by addressing missing values and applying normalization techniques.
+            Leveraging TensorFlow and Keras, I constructed an LSTM-based model, training it to discern patterns in stock movements for accurate predictions.
+            <p>In this endeavor, I designed the application to enable users to search for and predict stock prices for more than <b>2000+ NSE registered companies</b>, as well as select foreign companies, offering a comprehensive scope for analysis and prediction.</p>
+            <p>The project extends beyond the development of the predictive model; it encompasses an intuitive Streamlit dashboard that vividly ilustrates both actual and predicted trends. The interface not only provides users with a clear visual representation but also allows them to actively engage by predicting future closing prices for a specified number of days.</p>
             
-            This hands-on experience reflects my proficiency in machine learning, emphasizing my ability to process and analyze data effectively. Moreover, the deployment aspect underscores my commitment to delivering user-friendly solutions, making complex models accessible to a broader audience. This project encapsulates my practical problem-solving approach and showcases my dedication to contributing meaningfully to the field of data science.
+            <p>This hands-on experience reflects my proficiency in machine learning, emphasizing my ability to process and analyze data effectively. Moreover, the deployment aspect underscores my commitment to delivering user-friendly solutions, making complex models accessible to a broader audience. This project encapsulates my practical problem-solving approach and showcases my dedication to contributing meaningfully to the field of data science.
                            </p> ''', unsafe_allow_html=True)
     with st.expander(label="Gallery"):
         st.image(image="project2/image1.png")
