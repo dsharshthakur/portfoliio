@@ -79,11 +79,11 @@ with st.container():
     st.markdown('''
         Project Description:
             
-        <p>Developed a comprehensive restaurant recommendation model as a part of a personal project tailored for the Ghaziabad region, leveraging natural language processing (NLP) algorithms from the ground up.</p>
+        <p>Developed a comprehensive restaurant recommendation model as a part of a personal project tailored for the <b>Ghaziabad</b> region, leveraging <b>natural language processing (NLP)</b> algorithms from the ground up.</p>
         <p>Conducted an extensive data collection process by proficiently employing web scraping methods, ensuring the acquisition of accurate and relevant data sets crucial for training the recommendation engine.</p>
-        <p>Implemented various vital tasks, including data preprocessing, feature engineering,eda and text encoding showcasing a strong command of key data science concepts and techniques.</p>
-        <p>Leveraged Python for the entire project, utilizing libraries such as BeautifulSoup and Selenium for web scraping, pandas for data manipulation, Nltk for model development, and Streamlit for seamless deployment, thereby highlighting comprehensive technical proficiency and adaptability.</p>
-        <p>Ensured the seamless deployment and user-friendly accessibility of the model by leveraging the Streamlit service, allowing for a dynamic and interactive user experience.</p>
+        <p>Implemented various vital tasks, including data preprocessing, <b>feature engineering</b>,<b>eda</b> and <b>text encoding</b> showcasing a strong command of key data science concepts and techniques.</p>
+        <p>Leveraged Python for the entire project, utilizing libraries such as <b>BeautifulSoup</b> and <b>Selenium</b> for web scraping, <b>pandas</b> for data manipulation, <b>Nltk</b> for model development, and Streamlit for seamless deployment, thereby highlighting comprehensive technical proficiency and adaptability.</p>
+        <p>Ensured the seamless deployment and user-friendly accessibility of the model by leveraging the <b>Streamlit service</b>, allowing for a dynamic and interactive user experience.</p>
         <p>Gained valuable insights into data-driven decision-making, problem-solving, and project management, highlighting a strong commitment to achieving project goals.</p>
         <p>Demonstrated a keen interest in the practical application of machine learning and NLP in real-world scenarios, showcasing a passion for leveraging data to derive actionable insights and create tangible solutions.</p>
             ''', unsafe_allow_html=True)
@@ -104,7 +104,7 @@ with st.container():
     st.markdown('''
         Project Description:
         <p>
-        Designed and implemented a movie recommendation system as part of a personal project to apply data science and machine learning concepts.
+        Designed and implemented a movie recommendation system as part of a personal project to apply data science and <b>machine learning</b> concepts.
         Utilized Python and relevant libraries (such as Pandas,nltk,streamlit and scikit-learn) to develop the system.
         </p>''', unsafe_allow_html=True)
 
@@ -143,11 +143,9 @@ with st.container():
             Project Description:
             
             <p>
-            Developed a machine learning-based spam email 
-            classifier as a data science project to gain hands-on experience in data science and natural language processing (NLP).
+            Developed a machine learning-based spam email classifier as a data science project to gain hands-on experience in data science and natural language processing (NLP).
             </p>
-
-
+            
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery"):
