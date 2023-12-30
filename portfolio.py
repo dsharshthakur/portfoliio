@@ -72,10 +72,52 @@ with st.container():
 
 st.markdown("<br>", unsafe_allow_html=True)
 
-#project3
+#Project 3
+with st.container():
+    st.markdown("<h4>Project 3 : Your AI-Powered Language Hub</h4>",
+                unsafe_allow_html=True)
+    st.markdown("<h6>Date: December 2023</h6>", unsafe_allow_html=True)
+    st.markdown('''
+        Project Description:
+        
+        <h4>Introducing Streamlit Gemini: Your AI-Powered Language Hub</h4>
+
+        <h4>Harnessing the Power of AI for Effortless Translation and Summarization/<h4.
+
+    <p>Streamlit Gemini puts the power of language understanding and generation at your fingertips with an intuitive, user-friendly app. Built on the cutting-edge capabilities of Google Gemini and LangChain, it offers:</p>
+    
+    <b>Key Features:</b>
+    <ol>
+    <li>Instant Summaries: Get to the heart of any text in seconds with concise, AI-generated summaries that capture key points and save you time.</li>
+    <li>Accurate Translations: Break down language barriers with natural-sounding and grammatically correct translations across a wide range of languages.</li>
+    <li>Streamlined Interface: Experience a user-friendly interface that makes interacting with AI simple and accessible, even for those without technical expertise.</li>
+    </ol>
+    <h4>Unlock a World of Possibilities:</h4>
+    <ol>
+    <li>Boost Productivity: Summarize lengthy documents, emails, and articles to quickly grasp essential information and make informed decisions.</li>
+    <li>Enhance Learning: Translate and summarize educational materials to accelerate comprehension and retention, mastering new subjects and languages with ease.</li>
+    <li>Expand Reach: Communicate effectively with global audiences, translate marketing materials, and reach customers across cultures and borders.</li>
+    </ol>
+    <p>Streamlit Gemini bridges the gap between languages and empowers you to communicate, learn, and explore like never before. Dive into a 
+    </p>
+            ''', unsafe_allow_html=True)
+
+    with st.expander(label="Gallery"):
+        st.image(image="project8/image1.png")
+        st.image(image="project8/image2.png")
+
+
+
+
+
+
+
+
+
+#project4
 with st.container():
 
-    st.markdown("<h4>Project 3 : Restaurant Recommendation System</h4>",
+    st.markdown("<h4>Project 4 : Restaurant Recommendation System</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
