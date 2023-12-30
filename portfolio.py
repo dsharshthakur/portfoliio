@@ -79,8 +79,6 @@ with st.container():
     st.markdown("<h6>Date: December 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
         Project Description:
-        
-    <h4>Introducing Streamlit Gemini: Your AI-Powered Language Hub</h4>
     <br>
     
     <h4>Harnessing the Power of AI for Effortless Translation and Summarization</h4>
