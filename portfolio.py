@@ -83,7 +83,7 @@ with st.container():
     <h4>Introducing Streamlit Gemini: Your AI-Powered Language Hub</h4>
     <br>
     
-    <h4>Harnessing the Power of AI for Effortless Translation and Summarization</h4.
+    <h4>Harnessing the Power of AI for Effortless Translation and Summarization</h4>
     <br>
     <p>Streamlit Gemini puts the power of language understanding and generation at your fingertips with an intuitive, user-friendly app. Built on the cutting-edge capabilities of Google Gemini and LangChain, it offers:</p>
     
