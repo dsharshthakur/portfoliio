@@ -25,6 +25,7 @@ Best Regards,<br>
 st.write("Email- thakurharshsingh1612@gmail.com")
 
 st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
     st.markdown("<h4>Project 1 : MatchMyCV: Elevate Your Resume to Job Standards</h4>",
@@ -38,16 +39,13 @@ with st.container():
         <h4>Key Features:</h4>
         
         <h5>AI-Driven Resume Matching:</h5>
-        <ol>
         <li>Leverages LangChain and Gemini for deep semantic understanding of resumes and JDs.</li>
         <li>Generates tailored feedback for candidates to improve resume alignment with JD requirements.</li>
-        </ol>
         
         <h5>Conversational Interface:</h5>
-        <ol>
+    
         <li>Empowers employers to "talk" to resumes using natural language queries.</li>
         <li>Facilitates efficient information extraction and candidate assessment.</li>
-        </ol>
         
         <h5>Streamlit Deployment:</h5>
         <li>Offers a user-friendly web interface for seamless access and interaction.</li>
@@ -55,30 +53,24 @@ with st.container():
         <h5>Benefits:</h5>
         
         <h5>Enhanced Candidate Experience:</h5>
-        <ol>
         <li>Guides candidates towards creating more impactful resumes.</li>
         <li>Increases chances of job selection through targeted feedback.</li>
-        </ol>
-        <h5>Optimized Employer Efficiency</h5>:
         
-        <ol>
+        <h5>Optimized Employer Efficiency:</h5>:
+        
         <li>Streamlines initial screening process.</li>
         <li>Facilitates informed decision-making through comprehensive resume insights.</li>
-        </ol>
         
         <h5>Improved Hiring Outcomes:</h5>
-        <ol>
-        
         <li>Fosters better alignment between candidate qualifications and job requirements.</li>
         <li>Reduces time-to-hire and potential for bias.</li>
-        </ol>
         
         <h5>Tech Stack:</h5>
     
-        LangChain
-        Gemini
-        Streamlit
-        Python
+        <li>LangChain</li>
+        <li>Gemini</li>
+        <li>Streamlit</li>
+        <li>Python</li>
         
             
                             ''', unsafe_allow_html=True)
