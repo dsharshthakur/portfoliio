@@ -143,9 +143,9 @@ with st.container():
     st.markdown('''
         Project Description:
         
-        <h4>Introducing Streamlit Gemini: Your AI-Powered Language Hub</h4>
+        <h4>Introducing: Your AI-Powered Language Hub</h4>
 
-        <h4>Harnessing the Power of AI for Effortless Translation and Summarization</h4>.
+        <h6>Harnessing the Power of AI for Effortless Translation and Summarization</h6>
 
         <p>Streamlit Gemini puts the power of language understanding and generation at your fingertips with an intuitive, user-friendly app. Built on the cutting-edge capabilities of Google Gemini and LangChain, it offers:</p>
         
@@ -155,7 +155,7 @@ with st.container():
         <li>Accurate Translations: Break down language barriers with natural-sounding and grammatically correct translations across a wide range of languages.</li>
         <li>Streamlined Interface: Experience a user-friendly interface that makes interacting with AI simple and accessible, even for those without technical expertise.</li>
         </ol>
-        <h4>Unlock a World of Possibilities:</h4>
+        <h5>Unlock a World of Possibilities:</h5>
         <ol>
         <li>Boost Productivity: Summarize lengthy documents, emails, and articles to quickly grasp essential information and make informed decisions.</li>
         <li>Enhance Learning: Translate and summarize educational materials to accelerate comprehension and retention, mastering new subjects and languages with ease.</li>
