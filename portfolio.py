@@ -36,6 +36,7 @@ with st.container():
       
        <p> This project addresses a critical challenge in the recruitment process: effectively matching candidates with job descriptions (JDs) and streamlining the initial screening stage. It leverages cutting-edge AI technologies to create a user-friendly, interactive experience for both candidates and employers.</p>
         
+        <br>
         <h4>Key Features:</h4>
         
         <h6>AI-Driven Resume Matching:</h6>
@@ -50,6 +51,7 @@ with st.container():
         <h6>Streamlit Deployment:</h6>
         <li>Offers a user-friendly web interface for seamless access and interaction.</li>
         
+        <br>
         <h5>Benefits:</h5>
         
         <h6>Enhanced Candidate Experience:</h6>
@@ -65,6 +67,7 @@ with st.container():
         <li>Fosters better alignment between candidate qualifications and job requirements.</li>
         <li>Reduces time-to-hire and potential for bias.</li>
         
+        <br>
         <h5>Tech Stack:</h5>
     
         <li>LangChain</li>
