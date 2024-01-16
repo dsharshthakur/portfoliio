@@ -37,7 +37,7 @@ with st.container():
        <p> This project addresses a critical challenge in the recruitment process: effectively matching candidates with job descriptions (JDs) and streamlining the initial screening stage. It leverages cutting-edge AI technologies to create a user-friendly, interactive experience for both candidates and employers.</p>
         
         <br>
-        <h4>Key Features:</h4>
+        <h5>Key Features:</h5>
         
         <h6>AI-Driven Resume Matching:</h6>
         <li>Leverages LangChain and Gemini for deep semantic understanding of resumes and JDs.</li>
