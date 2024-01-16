@@ -38,30 +38,30 @@ with st.container():
         
         <h4>Key Features:</h4>
         
-        <h5>AI-Driven Resume Matching:</h5>
+        <h6>AI-Driven Resume Matching:</h6>
         <li>Leverages LangChain and Gemini for deep semantic understanding of resumes and JDs.</li>
         <li>Generates tailored feedback for candidates to improve resume alignment with JD requirements.</li>
         
-        <h5>Conversational Interface:</h5>
+        <h6>Conversational Interface:</h6>
     
         <li>Empowers employers to "talk" to resumes using natural language queries.</li>
         <li>Facilitates efficient information extraction and candidate assessment.</li>
         
-        <h5>Streamlit Deployment:</h5>
+        <h6>Streamlit Deployment:</h6>
         <li>Offers a user-friendly web interface for seamless access and interaction.</li>
         
         <h5>Benefits:</h5>
         
-        <h5>Enhanced Candidate Experience:</h5>
+        <h6>Enhanced Candidate Experience:</h6>
         <li>Guides candidates towards creating more impactful resumes.</li>
         <li>Increases chances of job selection through targeted feedback.</li>
         
-        <h5>Optimized Employer Efficiency:</h5>:
+        <h6>Optimized Employer Efficiency:</h6>
         
         <li>Streamlines initial screening process.</li>
         <li>Facilitates informed decision-making through comprehensive resume insights.</li>
         
-        <h5>Improved Hiring Outcomes:</h5>
+        <h6>Improved Hiring Outcomes:</h6>
         <li>Fosters better alignment between candidate qualifications and job requirements.</li>
         <li>Reduces time-to-hire and potential for bias.</li>
         
