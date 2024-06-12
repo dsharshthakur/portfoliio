@@ -22,10 +22,50 @@ Let the journey begin!</p>
 Best Regards,<br>
 <b>Harsh Singh</b>
     ''', unsafe_allow_html=True)
+
 st.write("Email- thakurharshsingh1612@gmail.com")
 
 st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("<br>", unsafe_allow_html=True)
+
+# Projects
+
+with st.container():
+    st.markdown("<h4>Project 1 : Voice Assistant App</h4>",
+                unsafe_allow_html=True)
+    st.markdown("<h6>Date: March 2024</h6>", unsafe_allow_html=True)
+    st.markdown('''
+     <h1>Streamlit Voice Assistant App</h1>
+    <p>This project is a simple voice assistant application, deployed using Streamlit, that allows users to interact with it via voice commands. The assistant leverages various powerful tools and libraries to process speech, generate responses, and handle user interactions efficiently.</p>
+    
+    <h2>Key Features:</h2>
+    <ul>
+        <li><strong>Voice Command Processing:</strong> The app utilizes <code>SpeechRecognition</code> for capturing and interpreting user voice inputs.</li>
+        <li><strong>Natural Language Processing:</strong> The language processing capabilities are powered by <code>langchain</code> and <code>langchain-google-genai</code>, enabling the assistant to understand and respond to queries effectively.</li>
+        <li><strong>Response Generation:</strong> For speech synthesis, the app uses <code>pyttsx3</code> and <code>gtts</code> to convert text responses into spoken words.</li>
+        <li><strong>Efficient Query Handling:</strong> With <code>faiss-cpu</code>, the app ensures quick and efficient similarity searches for relevant information.</li>
+        <li><strong>Audio Recording:</strong> The integration with <code>audio_recorder_streamlit</code> provides a seamless user experience for recording and processing voice commands.</li>
+        <li><strong>Real-Time Audio Input:</strong> <code>pyaudio</code> facilitates real-time audio input for continuous and responsive interaction.</li>
+    </ul>
+    
+    <h2>Tools and Libraries:</h2>
+    <ul>
+        <li><code>langchain==0.1.14:</code> For building conversational AI and integrating language models.</li>
+        <li><code>langchain-google-genai:</code> Enhances the natural language understanding capabilities of the app.</li>
+        <li><code>SpeechRecognition:</code> Captures and processes user voice input.</li>
+        <li><code>faiss-cpu:</code> Enables efficient search and retrieval operations.</li>
+        <li><code>audio_recorder_streamlit:</code> Provides an easy-to-use interface for recording audio in Streamlit apps.</li>
+        <li><code>pyttsx3==2.90:</code> A text-to-speech conversion library for generating spoken responses.</li>
+        <li><code>pyaudio==0.2.11:</code> Handles real-time audio input and processing.</li>
+        <li><code>gtts:</code> Converts text to speech using Google's Text-to-Speech API.</li>
+    </ul>
+    
+    <h2>Deployment:</h2>
+    <p>The app is deployed on Streamlit, making it easily accessible via a web browser and providing a seamless and interactive user experience.</p>
+           
+            
+                            ''', unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
     st.markdown("<h4>Project 1 : MatchMyCV: Elevate Your Resume to Job Standards</h4>",
