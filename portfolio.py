@@ -35,10 +35,10 @@ with st.container():
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: March 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
-     <h1>Streamlit Voice Assistant App</h1>
+    
     <p>This project is a simple voice assistant application, deployed using Streamlit, that allows users to interact with it via voice commands. The assistant leverages various powerful tools and libraries to process speech, generate responses, and handle user interactions efficiently.</p>
     
-    <h2>Key Features:</h2>
+    <h5>Key Features:</h5>
     <ul>
         <li><strong>Voice Command Processing:</strong> The app utilizes <code>SpeechRecognition</code> for capturing and interpreting user voice inputs.</li>
         <li><strong>Natural Language Processing:</strong> The language processing capabilities are powered by <code>langchain</code> and <code>langchain-google-genai</code>, enabling the assistant to understand and respond to queries effectively.</li>
@@ -48,10 +48,9 @@ with st.container():
         <li><strong>Real-Time Audio Input:</strong> <code>pyaudio</code> facilitates real-time audio input for continuous and responsive interaction.</li>
     </ul>
     
-    <h2>Tools and Libraries:</h2>
+    <h5>Tools and Libraries:</h5>
     <ul>
-        <li><code>langchain==0.1.14:</code> For building conversational AI and integrating language models.</li>
-        <li><code>langchain-google-genai:</code> Enhances the natural language understanding capabilities of the app.</li>
+        <li><code>langchain</code> For building conversational AI and integrating language models.</li>
         <li><code>SpeechRecognition:</code> Captures and processes user voice input.</li>
         <li><code>faiss-cpu:</code> Enables efficient search and retrieval operations.</li>
         <li><code>audio_recorder_streamlit:</code> Provides an easy-to-use interface for recording audio in Streamlit apps.</li>
@@ -60,7 +59,7 @@ with st.container():
         <li><code>gtts:</code> Converts text to speech using Google's Text-to-Speech API.</li>
     </ul>
     
-    <h2>Deployment:</h2>
+    <h5>Deployment:</h5>
     <p>The app is deployed on Streamlit, making it easily accessible via a web browser and providing a seamless and interactive user experience.</p>
            
             
