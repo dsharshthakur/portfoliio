@@ -33,13 +33,13 @@ with st.container():
     st.markdown("<h4>Project 1 : Voice Assistant App</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: April 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
-    <h1>Intelligent User Research Interview Chatbot</h1>
+    <h4>Converse: The User Research Dialogue Tool/h4>
     <h2>Overview</h2>
     <p>
         This project is an intelligent chatbot designed to conduct user research interviews, adapting its questions based on user responses to gather comprehensive and insightful data. The chatbot's dynamic and interactive nature ensures a more engaging and effective interview process, allowing for deeper understanding and richer insights from users.
     </p>
     
-    <h2>Key Features</h2>
+    <h5>Key Features</h5>
     <ul>
         <li><strong>Adaptive Questioning:</strong> The chatbot tailors its questions based on the responses provided by users, making the interview process more personalized and relevant.</li>
         <li><strong>Streamlined Interface:</strong> Built using Streamlit, the chatbot provides a user-friendly and interactive interface that is easy to navigate.</li>
@@ -47,7 +47,7 @@ with st.container():
         <li><strong>Powerful LLM Integration:</strong> Powered by Gemini, a cutting-edge language model, the chatbot demonstrates high levels of understanding and generation of human-like text, enhancing the overall user experience.</li>
     </ul>
 
-    <h2>Tech Stack</h2>
+    <h5>Tech Stack</h5>
     <ul>
         <li><strong>Streamlit:</strong> For creating an intuitive and interactive web application interface.</li>
         <li><strong>LangChain:</strong> To manage and streamline conversational flows and maintain context.</li>
@@ -66,6 +66,7 @@ with st.container():
         st.image(image="project1/image1.png")
         st.image(image="project1/image2.png")
         st.image(image="project1/image3.png")
+        st.image(image="project1/image4.png")
         
         
 
