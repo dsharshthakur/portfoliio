@@ -31,7 +31,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 # Projects
 
 with st.container():
-    st.markdown("<h4>Project 1 : Voice Assistant App</h4>",
+    st.markdown("<h4>Project 2 : Voice Assistant App</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: March 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -68,7 +68,7 @@ with st.container():
     st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
-    st.markdown("<h4>Project 1 : MatchMyCV: Elevate Your Resume to Job Standards</h4>",
+    st.markdown("<h4>Project 3 : MatchMyCV: Elevate Your Resume to Job Standards</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: January 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -120,11 +120,11 @@ with st.container():
     st.markdown("<br>", unsafe_allow_html=True)
 
     with st.expander(label="Gallery", expanded=True):
-        st.image(image="project9/image1.png")
-        st.image(image="project9/image2.png")
-        st.image(image="project9/image3.png")
-        st.image(image="project9/image4.png")
-        st.image(image="project9/image5.png")
+        st.image(image="project11/image1.png")
+        st.image(image="project11/image2.png")
+        st.image(image="project11/image3.png")
+        st.image(image="project11/image4.png")
+        st.image(image="project11/image5.png")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
@@ -133,7 +133,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 
 with st.container() :
-    st.markdown("<h4>Project 2 : AI-powered Email Assistant for Students and Professionals</h4>", unsafe_allow_html=True)
+    st.markdown("<h4>Project 4 : AI-powered Email Assistant for Students and Professionals</h4>", unsafe_allow_html=True)
     st.markdown("<h6>Date: December 2023</h6>", unsafe_allow_html= True)
     st.markdown('''
              Project Description
@@ -151,13 +151,13 @@ with st.container() :
              </ol>  
                             ''', unsafe_allow_html=True)
     with st.expander(label = "Gallery" , expanded = True):
-        st.image(image= "project8/image1.png")
-        st.image(image = "project8/image2.png")
+        st.image(image= "project10/image1.png")
+        st.image(image = "project10/image2.png")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
-    st.markdown("<h4>Project 3 : Stock Price Prediction Model</h4>",
+    st.markdown("<h4>Project 5 : Stock Price Prediction Model</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: November 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -171,13 +171,13 @@ with st.container():
             This hands-on experience reflects my proficiency in machine learning, emphasizing my ability to process and analyze data effectively. Moreover, the deployment aspect underscores my commitment to delivering user-friendly solutions, making complex models accessible to a broader audience. This project encapsulates my practical problem-solving approach and showcases my dedication to contributing meaningfully to the field of data science.
                            </p> ''', unsafe_allow_html=True)
     with st.expander(label="Gallery"):
-        st.image(image="project7/image1.png")
-        st.image(image="project7/image2.png")
+        st.image(image="project9/image1.png")
+        st.image(image="project9/image2.png")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
-    st.markdown("<h4>Project 4 : Your AI-Powered Language Hub</h4>",
+    st.markdown("<h4>Project 6 : Your AI-Powered Language Hub</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: December 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -206,14 +206,14 @@ with st.container():
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery", expanded = True):
-        st.image(image="project6/image1.png")
-        st.image(image="project6/image2.png")
+        st.image(image="project8/image1.png")
+        st.image(image="project8/image2.png")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
 
-    st.markdown("<h4>Project 5 : Restaurant Recommendation System</h4>",
+    st.markdown("<h4>Project 7 : Restaurant Recommendation System</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -229,16 +229,16 @@ with st.container():
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery", expanded = True ):
-        st.image(image="project5/image1.png")
-        st.image(image="project5/image2.png")
-        st.image(image="project5/image3.png")
-        st.image(image="project5/image4.png")
+        st.image(image="project7/image1.png")
+        st.image(image="project7/image2.png")
+        st.image(image="project7/image3.png")
+        st.image(image="project7/image4.png")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 
 with st.container():
-    st.markdown("<h4>Project 6 : Movie Recommendation System</h4>",
+    st.markdown("<h4>Project 8: Movie Recommendation System</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -249,14 +249,14 @@ with st.container():
         </p>''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery"):
-        st.image(image="project4/image1.png")
-        st.image(image="project4/image2.png")
+        st.image(image="project6/image1.png")
+        st.image(image="project6/image2.png")
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 
 with st.container():
-    st.markdown("<h4>Project 7 : WhatsApp Chat Analysis</h4>",unsafe_allow_html=True)
+    st.markdown("<h4>Project 9 : WhatsApp Chat Analysis</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: September 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description:
@@ -269,7 +269,7 @@ with st.container():
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery"):
-        st.image(image="project3/image1.png")
+        st.image(image="project5/image1.png")
         st.info("Sorry can't show more images for this project because of privacy concerns.")
 
 st.markdown("<br>", unsafe_allow_html=True)
@@ -277,7 +277,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
 
-    st.markdown("<h4>Project 8 : Spam Email Classifier</h4>",unsafe_allow_html=True)
+    st.markdown("<h4>Project 10 : Spam Email Classifier</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: September 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description:
@@ -291,7 +291,7 @@ with st.container():
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery"):
-        st.image(image="project2/image1.png")
+        st.image(image="project4/image1.png")
 
 
 st.markdown("<br>", unsafe_allow_html=True)
@@ -299,7 +299,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
 
-    st.markdown("<h4>Project 9 : Laptop Price Prediction</h4>",unsafe_allow_html=True)
+    st.markdown("<h4>Project 11: Laptop Price Prediction</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: August 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description:
@@ -313,5 +313,5 @@ with st.container():
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery"):
-        st.image(image="project1/image1.png")
+        st.image(image="project3/image1.png")
 
