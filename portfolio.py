@@ -228,7 +228,7 @@ with st.container():
 st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
-    st.markdown("<h4>Project 6 : Your AI-Powered Language Hub</h4>",
+    st.markdown("<h4 style = 'color:#0F55B1;'>Project 6 : Your AI-Powered Language Hub</h4>",
                 unsafe_allow_html=True)
     st.markdown("<h6>Date: December 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
@@ -307,7 +307,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 
 with st.container():
-    st.markdown("<h4>Project 9 : WhatsApp Chat Analysis</h4>",unsafe_allow_html=True)
+    st.markdown("<h4 style = 'color:#0F55B1;'>Project 9 : WhatsApp Chat Analysis</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: September 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description:
@@ -320,7 +320,7 @@ with st.container():
             ''', unsafe_allow_html=True)
 
     with st.expander(label="Gallery"):
-        st.image(image="project5/image1.png")
+        st.image(image="project5/image1.png") 
         st.info("Sorry can't show more images for this project because of privacy concerns.")
 
 st.markdown("<br>", unsafe_allow_html=True)
