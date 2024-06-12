@@ -64,8 +64,7 @@ with st.container():
            
             
                             ''', unsafe_allow_html=True)
-
- st.markdown("<br>", unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html=True)
 
     with st.expander(label="Gallery", expanded=True):
         st.image(image="project1/image1.png")
