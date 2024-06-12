@@ -67,9 +67,9 @@ with st.container():
     st.markdown("<br>", unsafe_allow_html=True)
 
     with st.expander(label="Gallery", expanded=True):
-        st.image(image="project1/image1.png")
+        st.image(image="project2/image1.png")
         st.image(image="project2/image2.png")
-        st.image(image="project3/image3.png")
+        st.image(image="project2/image3.png")
 
 
 st.markdown("<br>", unsafe_allow_html=True)
