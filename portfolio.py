@@ -48,14 +48,14 @@ with st.container():
         <li><strong>Real-Time Audio Input:</strong> <code>pyaudio</code> facilitates real-time audio input for continuous and responsive interaction.</li>
     </ul>
     
-    <h5>Tools and Libraries:</h5>
+    <h5>Tech Stack:</h5>
     <ul>
         <li><code>langchain</code> For building conversational AI and integrating language models.</li>
         <li><code>SpeechRecognition:</code> Captures and processes user voice input.</li>
         <li><code>faiss-cpu:</code> Enables efficient search and retrieval operations.</li>
         <li><code>audio_recorder_streamlit:</code> Provides an easy-to-use interface for recording audio in Streamlit apps.</li>
-        <li><code>pyttsx3==2.90:</code> A text-to-speech conversion library for generating spoken responses.</li>
-        <li><code>pyaudio==0.2.11:</code> Handles real-time audio input and processing.</li>
+        <li><code>pyttsx3:</code> A text-to-speech conversion library for generating spoken responses.</li>
+        <li><code>pyaudio:</code> Handles real-time audio input and processing.</li>
         <li><code>gtts:</code> Converts text to speech using Google's Text-to-Speech API.</li>
     </ul>
     
