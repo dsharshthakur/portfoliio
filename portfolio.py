@@ -30,7 +30,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 # Projects
 with st.container():
-    st.markdown("<h4>Project 1: Converse: The User Research Dialogue Tool/h4>",unsafe_allow_html=True)
+    st.markdown("<h4 style = 'color:#043370;'>Project 1: Converse: The User Research Dialogue Tool/h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: April 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
     <h5>Project Description/h5>
