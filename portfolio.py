@@ -64,7 +64,17 @@ with st.container():
            
             
                             ''', unsafe_allow_html=True)
-    st.markdown("<br>", unsafe_allow_html=True)
+
+ st.markdown("<br>", unsafe_allow_html=True)
+
+    with st.expander(label="Gallery", expanded=True):
+        st.image(image="project1/image1.png")
+        st.image(image="project2/image2.png")
+        st.image(image="project3/image3.png")
+
+
+st.markdown("<br>", unsafe_allow_html=True)
+
 
 with st.container():
     st.markdown("<h4>Project 3 : MatchMyCV: Elevate Your Resume to Job Standards</h4>",
