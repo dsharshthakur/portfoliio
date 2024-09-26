@@ -31,7 +31,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 # Projects
 with st.container():
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 1: Converse: The User Research Dialogue Tool</h4>",unsafe_allow_html=True)
-    st.markdown("<h6>Date: April 2024</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: April 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
     <h5>Project Description</h5>
     <p>
@@ -76,7 +76,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 with st.container():
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 2 : Voice Assistant App</h4>",
                 unsafe_allow_html=True)
-    st.markdown("<h6>Date: March 2024</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: March 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
     
     <p>This project is a simple voice assistant application, deployed using Streamlit, that allows users to interact with it via voice commands. The assistant leverages various powerful tools and libraries to process speech, generate responses, and handle user interactions efficiently.</p>
@@ -121,7 +121,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 with st.container():
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 3 : MatchMyCV: Elevate Your Resume to Job Standards</h4>",
                 unsafe_allow_html=True)
-    st.markdown("<h6>Date: January 2024</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: January 2024</h6>", unsafe_allow_html=True)
     st.markdown('''
              Project Description
       
@@ -210,7 +210,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 with st.container():
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 5 : Stock Price Prediction Model</h4>",
                 unsafe_allow_html=True)
-    st.markdown("<h6>Date: November 2023</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: November 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description
             
@@ -266,7 +266,7 @@ with st.container():
 
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 7 : Restaurant Recommendation System</h4>",
                 unsafe_allow_html=True)
-    st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
         Project Description:
             
@@ -291,7 +291,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 with st.container():
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 8: Movie Recommendation System</h4>",
                 unsafe_allow_html=True)
-    st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: October 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
         Project Description:
         <p>
@@ -329,7 +329,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 with st.container():
 
     st.markdown("<h4 style = 'color:#0F55B1;'>Project 10 : Spam Email Classifier</h4>",unsafe_allow_html=True)
-    st.markdown("<h6>Date: September 2023</h6>", unsafe_allow_html=True)
+    # st.markdown("<h6>Date: September 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description:
             
@@ -350,7 +350,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 
 with st.container():
 
-    st.markdown("<h4 style = 'color:#0F55B1;'>Project 11: Laptop Price Prediction</h4>",unsafe_allow_html=True)
+    # st.markdown("<h4 style = 'color:#0F55B1;'>Project 11: Laptop Price Prediction</h4>",unsafe_allow_html=True)
     st.markdown("<h6>Date: August 2023</h6>", unsafe_allow_html=True)
     st.markdown('''
             Project Description:
